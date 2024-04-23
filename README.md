@@ -1,2 +1,2 @@
 # sam-sneed.github.io
-redirect
+[Entry 1 - Top ways the gloiwes done us wrong.](1.md)
