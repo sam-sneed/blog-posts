@@ -1,2 +1,3 @@
-# sam-sneed.github.io
-[Entry 1 - Top ways the gloiwes done us wrong.](1.md)
+# sam-sneed.github.io blog - README
+
+Welcome! We are Sneed group. We are strong. We are one. We are many.
